@@ -1,5 +1,6 @@
 # Uso de Blob Storage y creación de un sitio web estático
 En este repositorio tenemos una demostración del uso de Blob Storage con un sitio web estático.
+
 ![Microsoft-Azure-Blob-Storage-Logo](https://github.com/DagonNR/Blob-Storage/blob/main/images/Microsoft-Azure-Blob-Storage-Logo.png)
 
 ---
